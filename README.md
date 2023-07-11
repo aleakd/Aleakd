@@ -7,7 +7,11 @@
       </a>   
       <a href="mailto:ale240307@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25" width="25">
-      </a>  
+      </a> 
+      <a href="https://api.whatsapp.com/send?phone=5493541661516/">
+      <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" height="25" width="25">
+      </a> 
+      
    </p>
 <h2 align=center>About me: </h2>
 <p align=center>¡Hola! Soy un Alejandro, apasionado por la programación con experiencia en Python, HTML, CSS, Flask, Data Science, Numpy, Pandas, SQL, Matplotlib, Beautiful Soup y otras tecnologías relacionadas. Siempre estoy buscando nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el campo de la programación.
